@@ -15,3 +15,5 @@ hai shi pinyin da fa hao.
 
 Git tracks changes.
 Git has a mutable index called stage.
+
+Git tracks changes of files.

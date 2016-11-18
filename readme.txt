@@ -12,3 +12,6 @@ hai shi pinyin da fa hao.
 # fix-B
 
 # feature-B
+
+Git tracks changes.
+Git has a mutable index called stage.
